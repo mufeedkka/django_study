@@ -1,0 +1,29 @@
+[
+    {
+        "model": "products.country",
+        "pk": 1,
+        "fields": {
+            "name": "Thailand",
+            "capital": "Bangkok",
+            "area": 513120
+        }
+    },
+    {
+        "model": "products.country",
+        "pk": 2,
+        "fields": {
+            "name": "Australia",
+            "capital": "Canberra",
+            "area": 7617930
+        }
+    },
+    {
+        "model": "products.country",
+        "pk": 3,
+        "fields": {
+            "name": "Egypt",
+            "capital": "Cairo",
+            "area": 1010408
+        }
+    }
+]
